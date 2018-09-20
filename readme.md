@@ -1,3 +1,3 @@
-# Nervos-api page
+# NeuronWeb Testpage
 
-This project show almost api method of nervos.js, you can study nervos.js SDK intuitively.
+This is the testpage for NeuronWeb
